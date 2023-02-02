@@ -10,7 +10,7 @@ Ethereum : [0x712E87520f35a0a17A49bcCA4D87c201F0A46EBb](https://etherscan.io/add
 Ethereum : [0x7DA0e45cE7fD8359544Be00a6618215770851ebB](https://etherscan.io/address/0x7da0e45ce7fd8359544be00a6618215770851ebb)
 
 ### X7 Token Burner
-Ethereum : 0x70008F0B06060A31515733DB6dCB515c64f3DeAd[](https://etherscan.io/address/0x70008f0b06060a31515733db6dcb515c64f3dead)
+Ethereum : [0x70008F0B06060A31515733DB6dCB515c64f3DeAd](https://etherscan.io/address/0x70008f0b06060a31515733db6dcb515c64f3dead)
 
 ### X7100 Discount Authority
 Ethereum : [0x7100AAcC6047281b105201cb9e0DEcF9Ae5431DA](https://etherscan.io/address/0x7100aacc6047281b105201cb9e0decf9ae5431da)
