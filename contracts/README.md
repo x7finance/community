@@ -15,4 +15,3 @@ A directory of the smart contract .sol files
 ### Contract UML Diagrams
 
 Images of the X7 smart contracts as shown in a UML diagram
-
