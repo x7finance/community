@@ -4,7 +4,7 @@ https://medium.com/@mikemurpher/x7-finance-x7d-token-contract-45b2edc886a6
 
 # X7 Finance X7D Token Contract
 
-X7D is the ETH backed token of the X7 ecosystem!! X7D can be minted from ETH by authorizedMinters and burned to ETH by authorizedRedeemers.
+X7D is the ETH backed token of the X7 ecosystem. X7D can be minted from ETH by authorizedMinters and burned to ETH by authorizedRedeemers.
 All ETH underpinning X7D will be custodied by smart contracts.
 
 Unlike a strictly wrapped token like WETH, the X7D token contract does not have custody of any ETH itself. It instead defers this job to authorizedMinters and authorizedRedeemers. This provides flexibility to deploy multiple mechanisms for minting X7D and redeeming X7D into ETH at various timescales, with various associated caveats, and with various multipliers or percentage returns.
