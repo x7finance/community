@@ -1,0 +1,28 @@
+{
+  "name": "x7-community-docs",
+  "version": "0.0.1",
+  "description": "<div align=\"center\"><a href=\"https://x7.finance\"> <img alt=\"x7 logo\" height=\"200\" src=\"https://x7.finance/X7whitelogo.png\"/></a></div> <div align=\"center\">Launch your project on Xchange with 10-1000x the initial liquidity into the Ethereum ecosystem where anyone can Swap, Borrow and Lend!</div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x7finance/community.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x7finance/community/issues"
+  },
+  "homepage": "https://github.com/x7finance/community#readme",
+  "devDependencies": {
+    "husky": ">=6",
+    "lint-staged": ">=10",
+    "prettier": "^2.8.3"
+  },
+  "lint-staged": {
+    "*.{css,md,js,ts,tsx}": "prettier --write"
+  }
+}
