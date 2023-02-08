@@ -4,7 +4,7 @@ Contains the contract functions only with a link to the full function in the con
 
 ### Interface
 
-[interface IX7Migration](/contracts/contract-source-code/X7DEXMaxi.sol#L1267)\
+[interface IX7Migration](/contracts/contract-source-code/X7DEXMaxi.sol#L1267)
 
 ### Contract events
 
@@ -13,7 +13,7 @@ Contains the contract functions only with a link to the full function in the con
 [event MintPriceSet(uint256 oldPrice, uint256 newPrice)](/contracts/contract-source-code/X7DEXMaxi.sol#L1289)\
 [event BaseURISet(string oldURI, string newURI)](/contracts/contract-source-code/X7DEXMaxi.sol#L1290)\
 [event WhitelistActivitySet(bool whitelistActive)](/contracts/contract-source-code/X7DEXMaxi.sol#L1291)\
-[event WhitelistAuthoritySet(address indexed oldWhitelistAuthority, address indexed newWhitelistAuthority)](/contracts/contract-source-code/X7DEXMaxi.sol#L1292)\
+[event WhitelistAuthoritySet(address indexed oldWhitelistAuthority, address indexed newWhitelistAuthority)](/contracts/contract-source-code/X7DEXMaxi.sol#L1292)
 
 ### External Functions
 
@@ -26,7 +26,7 @@ Contains the contract functions only with a link to the full function in the con
 [function setWhitelistAuthority(address whitelistAuthority\_) external onlyOwner](/contracts/contract-source-code/X7DEXMaxi.sol#L1337)\
 [function openMinting() external onlyOwner](/contracts/contract-source-code/X7DEXMaxi.sol#L1344)\
 [function mint() external payable](/contracts/contract-source-code/X7DEXMaxi.sol#L1351)\
-[function mintMany(uint256 numMints) external payable](/contracts/contract-source-code/X7DEXMaxi.sol#L1355)\
+[function mintMany(uint256 numMints) external payable](/contracts/contract-source-code/X7DEXMaxi.sol#L1355)
 
 ### Internal Functions
 

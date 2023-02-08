@@ -5,7 +5,7 @@ Contains the contract functions only with a link to the full function in the con
 ### Interface
 
 [interface ILiquidityHub](/contracts/contract-source-code/X7DAO.sol#L265)\
-[interface IDiscountAuthority](/contracts/contract-source-code/X7DAO.sol#L269)\
+[interface IDiscountAuthority](/contracts/contract-source-code/X7DAO.sol#L269)
 
 ### Contract events
 
@@ -15,7 +15,7 @@ Contains the contract functions only with a link to the full function in the con
 [event AMMSet(address indexed pairAddress, bool isAMM)](/contracts/contract-source-code/X7DAO.sol#L296)\
 [event OffRampPairSet(address indexed offRampPair)](/contracts/contract-source-code/X7DAO.sol#L297)\
 [event LiquidityHubFrozen()](/contracts/contract-source-code/X7DAO.sol#L298)\
-[event DiscountAuthorityFrozen()](/contracts/contract-source-code/X7DAO.sol#L299)\
+[event DiscountAuthorityFrozen()](/contracts/contract-source-code/X7DAO.sol#L299)
 
 ### External Functions
 
@@ -29,8 +29,8 @@ Contains the contract functions only with a link to the full function in the con
 [function circulatingSupply() external view returns (uint256)](/contracts/contract-source-code/X7DAO.sol#L351)\
 [function enableTrading() external onlyOwner](/contracts/contract-source-code/X7DAO.sol#L355)\
 [function rescueETH() external](/contracts/contract-source-code/X7DAO.sol#L408)\
-[function rescueTokens(address tokenAddress) external](/contracts/contract-source-code/X7DAO.sol#L413)\
+[function rescueTokens(address tokenAddress) external](/contracts/contract-source-code/X7DAO.sol#L413)
 
 ### Internal Functions
 
-[function \_transfer(address from, address to, uint256 amount) internal override](/contracts/contract-source-code/X7DAO.sol#L360)\
+[function \_transfer(address from, address to, uint256 amount) internal override](/contracts/contract-source-code/X7DAO.sol#L360)

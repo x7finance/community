@@ -6,7 +6,7 @@ Contains the contract functions only with a link to the full function in the con
 
 [interface ILiquidityHub](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L212)\
 [interface IX7EcosystemSplitter](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L216)\
-[interface IWETH](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L220)\
+[interface IWETH](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L220)
 
 ### Contract events
 
@@ -22,7 +22,7 @@ Contains the contract functions only with a link to the full function in the con
 [event TreasuryTargetFrozen()](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L270)\
 [event AuxiliaryTargetFrozen()](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L271)\
 [event DistributeTargetFrozen()](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L272)\
-[event BalanceThresholdFrozen()](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L273)\
+[event BalanceThresholdFrozen()](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L273)
 
 ### External Functions
 
@@ -40,7 +40,7 @@ Contains the contract functions only with a link to the full function in the con
 [function freezeAuxiliaryTarget() external onlyOwner ](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L384)\
 [function freezeBalanceThreshold() external onlyOwner](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L390)\
 [function processFees(address tokenAddress) external](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L396)\
-[function rescueWETH() external](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L549)\
+[function rescueWETH() external](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L549)
 
 ### Internal Functions
 
@@ -48,9 +48,9 @@ Contains the contract functions only with a link to the full function in the con
 [function buyBackAndAddLiquidity() internal](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L480)\
 [function addLiquidityETH(uint256 tokenAmount, uint256 ethAmount) internal](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L510)\
 [function swapTokensForEth(address tokenAddress, uint256 tokenAmount) internal](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L522)\
-[function swapEthForTokens(uint256 ethAmount) internal](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L537)\
+[function swapEthForTokens(uint256 ethAmount) internal](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L537)
 
 ### Public Functions
 
 [function sendDistributeBalance() public](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L433)\
-[function sendTreasuryBalance() public](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L450)\
+[function sendTreasuryBalance() public](/contracts/contract-source-code/X7DAOLiquidityHub.sol#L450)
