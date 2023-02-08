@@ -21,6 +21,7 @@ Contains the contract functions only with a link to the full function in the con
 
 ### External Functions
 
+[receive() external payable](/contracts/contract-source-code/X7D.sol#L398)\
 [function setAuthorizedMinter(address minterAddress, bool isAuthorized) external onlyOwner](/contracts/contract-source-code/X7D.sol#L408)\
 [function setAuthorizedRedeemer(address redeemerAddress, bool isAuthorized) external onlyOwner](/contracts/contract-source-code/X7D.sol#L428)\
 [function mint(address to, uint256 amount) external](/contracts/contract-source-code/X7D.sol#L448)\
