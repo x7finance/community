@@ -4,7 +4,7 @@ Contains the contract functions only with a link to the full function in the con
 
 ### Interface
 
-[interface IERC20](/contracts/contract-source-code/X7LendingPoolReserve.sol#L130)\event
+[interface IERC20](/contracts/contract-source-code/X7LendingPoolReserve.sol#L130)\
 [interface IX7D](/contracts/contract-source-code/X7D.sol#L134)\
 [interface X7DMinter](/contracts/contract-source-code/X7D.sol#L139)\
 [interface X7DBurner](/contracts/contract-source-code/X7D.sol#L150)
@@ -29,4 +29,4 @@ Contains the contract functions only with a link to the full function in the con
 [function setEcosystemRecipientAddress(address recipient) external onlyOwner](/contracts/contract-source-code/X7LendingPoolReserve.sol#L237)\
 [function setX7D(address X7DAddress) external onlyOwner](/contracts/contract-source-code/X7LendingPoolReserve.sol#L245)\
 [function setEcosystemPayer(address ecosystemPayerAddress, bool value) external onlyOwner](/contracts/contract-source-code/X7LendingPoolReserve.sol#L253)\
-[function fundLendingPool(uint256 amount) external onlyOwner](/contracts/contract-source-code/X7LendingPoolReserve.sol#L260)\
+[function fundLendingPool(uint256 amount) external onlyOwner](/contracts/contract-source-code/X7LendingPoolReserve.sol#L260)
