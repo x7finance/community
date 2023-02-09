@@ -18,6 +18,10 @@ Covers a detailed breakdown of each element of the smart contracts used in the X
 - [X7100 Discount Authority](/contracts/contract-breakdowns/X7100DiscountAuthority.md)
 - [X7100 Liquidity Hub](/contracts/contract-breakdowns/X7100LiquidityHub.md)
 
+### Contract Functions
+
+Contains the contract functions only with a link to the full function in the contract code
+
 ### Contract Links
 
 Contains links to the token and Smart Contracts on each chain
